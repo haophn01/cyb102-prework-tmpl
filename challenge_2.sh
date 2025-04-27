@@ -1,1 +1,2 @@
-echo "Replace this line with your answer to Challenge #2"
+ echo "use a as all user and -w as remove all write permission"
+chmod a-w permanent.txt
